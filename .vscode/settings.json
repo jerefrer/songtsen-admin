@@ -1,0 +1,4 @@
+{
+  // If not specified searches for 'rubocop' executable available on PATH (default and recommended)
+  "ruby.rubocop.executePath": "/home/lekshe/.rbenv/versions/3.2.2/bin/",
+}
